@@ -1,0 +1,5 @@
+il_folder_id = "b483u8568fn4ch29itgt"
+il_cloud_id = "b48fkkjfamnu9u2hhst5"
+il_org_id = "fhig2qdis4bsbkvs2df2"
+az_tenant_id = "8dfe9017-7fce-45cd-a294-8799321cc073"
+il_auth = "t1.9euZz8eYi8aNjpuPm87IyI-WyI6Uye3rmc_HyJuVlIzMnM-XmsvHj8-LnYvl8_c4Ggdn-e9mCF0x_d3z93hIBGf572YIXTH9.0lPdii09vqvytxR0c-hMm82Gl8EFIiGTZyRPskkGDraCWlVZ13rirt2U8ZX-5DYt5_oIpbRM3Sn85scS7Qx6DQ"
